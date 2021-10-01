@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @parsidev
+- 👀 I'm interested in development
+- 🌱 I’m currently learning new technologies
