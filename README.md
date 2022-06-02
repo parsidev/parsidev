@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=panjf2000&show_icons=true&theme=vue" alt="Andy's github stats" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=parsidev&show_icons=true&theme=vue" alt="Parsidev's github stats" />
 
 - 👋 Hi, I’m @parsidev
 - 👀 I'm interested in development
